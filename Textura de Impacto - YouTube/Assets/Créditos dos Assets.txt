@@ -1,0 +1,5 @@
+Assets usados neste tutorial:
+
+- Blaster Kit (por Keeney): https://www.kenney.nl/assets/blaster-kit
+
+- Textura de Impacto [Bullet Decal] (por musdasch): https://opengameart.org/content/bullet-decal
