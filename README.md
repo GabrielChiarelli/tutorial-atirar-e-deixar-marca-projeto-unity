@@ -2,7 +2,7 @@
 Nesse repositório você encontra o projeto (com todos os arquivos e código comentado) do nosso Tutorial "Como ATIRAR e DEIXAR MARCA na parede na UNITY | Tutorial passo a passo para Iniciantes", do meu canal no YouTube, Desenvolvendo Jogos.
 <br>
 <br>
-Esse sistema te permite colocar uma imagem na superfície de um gameObject. Pode ser uma textura de impacto, um desenho, o que você quiser! Ele é bem flexível e você pode alterá-lo facilmente se precisar :)
+Esse sistema te permite colocar uma imagem na superfície de um gameObject. Pode ser uma textura de impacto, um desenho, o que você quiser! Ele funciona utilizando Raycast, e é bem flexível e você pode alterá-lo facilmente se precisar :)
 <br>
 <br>
 Espero que se divirta bastante e aprenda diversas coisas novas com ele :)
